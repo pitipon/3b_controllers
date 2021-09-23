@@ -6,5 +6,5 @@
 2) run server
 `npm run start`
 
-3) open web browser
-`http://localhost:8000`
+3) open register routes
+`http://localhost:8000/register`
